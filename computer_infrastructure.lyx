@@ -400,7 +400,7 @@ Utilization Law
 \end_layout
 
 \begin_layout Standard
-\begin_inset Formula $U_{K}=X_{K}S_{K}=XS_{K}$
+\begin_inset Formula $U_{K}=X_{K}S_{K}=XD_{K}$
 \end_inset
 
 
