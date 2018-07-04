@@ -757,7 +757,7 @@ block interland distributed parity (support two disks fail) (at least 4
 \end_layout
 
 \begin_layout Standard
-\begin_inset Formula $MTTDL=\frac{MTTF^{3}}{n(n-1)(n-2)MTTR^{2}}$
+\begin_inset Formula $MTTDL=\frac{2MTTF^{3}}{n(n-1)(n-2)MTTR^{2}}$
 \end_inset
 
 
