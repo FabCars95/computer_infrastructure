@@ -699,7 +699,7 @@ RAID 1+0
 \end_layout
 
 \begin_layout Standard
-Striping first, second mirroring (at least 4 disk, even number)
+Mirroring first, second striping (at least 4 disk, even number)
 \end_layout
 
 \begin_layout Standard
@@ -714,7 +714,7 @@ RAID 0+1
 \end_layout
 
 \begin_layout Standard
-Mirroring first, second striping (at least 4 disk, even number)
+Striping first, second mirroring (at least 4 disk, even number)
 \end_layout
 
 \begin_layout Standard
